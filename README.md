@@ -1,8 +1,8 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
-Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Neste projeto foi desenvolvidp um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
+Durante o curso, foi desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
@@ -47,3 +47,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
+* [Acesso online de API](https://peopleapi-numeriano.herokuapp.com/)
